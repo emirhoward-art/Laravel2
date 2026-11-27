@@ -1,0 +1,9 @@
+==================================================
+INFORMASI REPOSITORI PORTOFOLIO MEKATRONIKA
+==================================================
+Nama Mahasiswa : Emeraldo Wahid Budi Santoso
+NIM            : 20246027
+URL Repository : https://github.com/emirhoward-art/Laravel2.git
+Branch Utama   : main
+Branch Latihan : 
+==================================================
